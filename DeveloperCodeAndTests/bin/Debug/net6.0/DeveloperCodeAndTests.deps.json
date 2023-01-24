@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DeveloperCodeAndTests/1.0.0": {
+        "dependencies": {
+          "TestRunner": "1.0.0"
+        },
+        "runtime": {
+          "DeveloperCodeAndTests.dll": {}
+        }
+      },
+      "TestRunner/1.0.0": {
+        "runtime": {
+          "TestRunner.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DeveloperCodeAndTests/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TestRunner/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

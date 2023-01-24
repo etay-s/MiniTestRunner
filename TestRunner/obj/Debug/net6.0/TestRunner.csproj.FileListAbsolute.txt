@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Tester\TestRunner\bin\Debug\net6.0\TestRunner.exe
+C:\Users\user\Desktop\Tester\TestRunner\bin\Debug\net6.0\TestRunner.deps.json
+C:\Users\user\Desktop\Tester\TestRunner\bin\Debug\net6.0\TestRunner.runtimeconfig.json
+C:\Users\user\Desktop\Tester\TestRunner\bin\Debug\net6.0\TestRunner.dll
+C:\Users\user\Desktop\Tester\TestRunner\bin\Debug\net6.0\TestRunner.pdb
+C:\Users\user\Desktop\Tester\TestRunner\obj\Debug\net6.0\TestRunner.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Tester\TestRunner\obj\Debug\net6.0\TestRunner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Tester\TestRunner\obj\Debug\net6.0\TestRunner.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Tester\TestRunner\obj\Debug\net6.0\TestRunner.AssemblyInfo.cs
+C:\Users\user\Desktop\Tester\TestRunner\obj\Debug\net6.0\TestRunner.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Tester\TestRunner\obj\Debug\net6.0\TestRunner.dll
+C:\Users\user\Desktop\Tester\TestRunner\obj\Debug\net6.0\refint\TestRunner.dll
+C:\Users\user\Desktop\Tester\TestRunner\obj\Debug\net6.0\TestRunner.pdb
+C:\Users\user\Desktop\Tester\TestRunner\obj\Debug\net6.0\TestRunner.genruntimeconfig.cache
+C:\Users\user\Desktop\Tester\TestRunner\obj\Debug\net6.0\ref\TestRunner.dll
