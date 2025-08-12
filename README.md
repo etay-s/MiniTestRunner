@@ -1,6 +1,7 @@
 # MiniTestRunner
 
-A minimal C# unit testing framework using reflection and custom attributes. Designed to showcase basic reflection and testing concepts.
+A minimal C# unit testing framework using reflection and custom attributes.\
+Designed to showcase basic reflection and testing concepts.
 
 ## Features
 
@@ -12,7 +13,7 @@ A minimal C# unit testing framework using reflection and custom attributes. Desi
 
 ## How It Works
 
-- The test runner loads assemblies and finds classes marked with [TestClass].
-- It categorizes methods by [TestInit], [TestMethod], and [TestFinal].
+- The test runner loads assemblies and finds classes marked with `[TestClass]`.
+- It categorizes methods by [`TestInit]`, `[TestMethod]`, and `[TestFinal]`.
 - Methods are invoked in order: setup, tests, teardown.
 - Any exceptions are caught and printed to the console.
